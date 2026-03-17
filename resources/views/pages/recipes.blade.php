@@ -134,7 +134,7 @@
                 ['img'=>'https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&q=80','cat'=>'Breakfast','title'=>'Masala French Toast with Chai Cream','desc'=>'A desi twist — spiced egg custard, crispy edges, chai-infused whipped cream.','time'=>'20 min','serves'=>'2','diff'=>'Easy','slug'=>'masala-french-toast'],
                 ['img'=>'https://images.unsplash.com/photo-1559847844-5315695dadae?w=600&q=80','cat'=>'Indian','title'=>'Dal Makhani with Charred Naan','desc'=>'Black lentils slow-cooked overnight, finished with butter and cream. Deeply satisfying.','time'=>'8 hrs','serves'=>'6','diff'=>'Medium','slug'=>'dal-makhani'],
                 ['img'=>'https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=600&q=80','cat'=>'Baking','title'=>'Tahini Chocolate Chip Cookies','desc'=>'Chewy, golden-edged cookies with nutty tahini depth and pools of dark chocolate.','time'=>'25 min','serves'=>'24','diff'=>'Easy','slug'=>'tahini-choc-chip-cookies'],
-                ['img'=>'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&q=80','cat'=>'Pasta','title'=>'Nduja Rigatoni all'Arrabbiata','desc'=>'Spicy Calabrian spreadable salami melted into a fiery tomato sauce with rigatoni.','time'=>'30 min','serves'=>'4','diff'=>'Easy','slug'=>'nduja-rigatoni'],
+                ['img'=>'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&q=80','cat'=>'Pasta','title'=>'Nduja Rigatoni all\'Arrabbiata','desc'=>'Spicy Calabrian spreadable salami melted into a fiery tomato sauce with rigatoni.','time'=>'30 min','serves'=>'4','diff'=>'Easy','slug'=>'nduja-rigatoni'],
             ];
             @endphp
 
